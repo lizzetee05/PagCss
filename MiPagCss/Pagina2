@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <h1 style="color: blue;">Página 2</h1>
+    </header>
+    <main>
+        <section>
+            <h2 style="color: plum;">Esto es un h2</h2>
+        </section>
+            <section>
+                <h2 style="color: powderblue;">este es un h2</h2>
+            </section>
+    </main>
+</body>
+</html>
